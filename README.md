@@ -2,19 +2,20 @@
 
 I'm Rafael, I'm a software developer, I work with front-end technologies
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-camara&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-camara&color=38b6ff" alt="Profile views" /> </p>
 
-- 🔥 Pleno Web Developer
+- 🔥 Pleno Web and Mobile Developer
 - 🔭 I’m currently working at [EFASAFE](https://github.com/efasafe)
 - 🌱 I’m currently learning **Node.JS, Flutter**
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Contact
