@@ -2,8 +2,6 @@
 
 I'm Rafael, I'm a software developer, I work with front-end technologies
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-camara&color=38b6ff" alt="Profile views" /> </p>
-
 - 🔥 Pleno Web and Mobile Developer
 - 🔭 I’m currently working at [EFASAFE](https://github.com/efasafe)
 - 🌱 I’m currently learning **Node.JS, Flutter**
