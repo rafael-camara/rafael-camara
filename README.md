@@ -1,6 +1,6 @@
-### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+### Olá! Eu sou Rafael 👋
 
-Sou um desenvolvedor front-end apaixonado por criar experiências incríveis na web.
+Sou desenvolvedor front-end apaixonado por criar experiências incríveis na web.
 
 - 🔥 Desenvolvedor Pleno Front-end
 - 🔭 Atualmente trabalhando na [EFASAFE](https://github.com/efasafe)
