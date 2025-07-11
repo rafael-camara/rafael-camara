@@ -1,4 +1,4 @@
-### Olá! Eu sou Rafael 👋
+### Olá! 👋
 
 Sou desenvolvedor front-end apaixonado por criar experiências incríveis na web.
 
