@@ -4,7 +4,7 @@ Sou desenvolvedor front-end apaixonado por criar experiências incríveis na web
 
 - 🔥 Desenvolvedor Pleno Front-end
 - 🔭 Atualmente trabalhando na [EFASAFE](https://github.com/efasafe)
-- 🌱 Atualmente estou aprendendo **Nodejs**
+- 🌱 Atualmente estou aprendendo **Node.js**
 
 ## 🛠 &nbsp;Pilha de tecnologia
 
